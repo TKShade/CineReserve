@@ -11,4 +11,5 @@ The purpose of this program is to be a cinema booking system. As could be used b
 * ability to click on seats to choose them as reserved
 * ability to write customer info ie. phonenumber and name and number of tickets/seats
 * ability to save that information so that you can see that those seats are reserved when you book for the next customer
+* Booking screen has text fields for typing in customer info on top and underneath a scrollable list of movie pictures sorted after which movie airs closest to the time of booking
 
